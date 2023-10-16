@@ -1,0 +1,18 @@
+{
+    "bookmarkDisplayMode": 1,
+    "lists": {
+        "General": {
+            "bookmarks": {
+                "С1": {
+                    "bandwidth": 250000.0,
+                    "frequency": 105300000.0,
+                    "level": -85,
+                    "mode": 1,
+                    "scard": "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo"
+                }
+            },
+            "showOnWaterfall": true
+        }
+    },
+    "selectedList": "Новий банк"
+}

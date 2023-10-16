@@ -1,0 +1,104 @@
+{
+    "Канал приймання": {
+        "AM": {
+            "FMIFNREnabled": false,
+            "agcAttack": 36.8849983215332,
+            "agcDecay": 3.2899999618530273,
+            "bandwidth": 15000.0,
+            "deempMode": "Вимкнен.",
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 1.0,
+            "snapInterval": 1001,
+            "squelchEnabled": true,
+            "squelchLevel": -72.66699981689453
+        },
+        "CW": {
+            "FMIFNREnabled": false,
+            "agcDecay": 2.194000005722046,
+            "bandwidth": 500,
+            "deempMode": "Вимкнен.",
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 1.0,
+            "snapInterval": 10.0,
+            "squelchEnabled": true,
+            "squelchLevel": -26.83799934387207
+        },
+        "DSB": {
+            "FMIFNREnabled": false,
+            "bandwidth": 6250,
+            "deempMode": "Вимкнен.",
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 1.0,
+            "snapInterval": 100.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "FM": {
+            "FMIFNREnabled": false,
+            "bandwidth": 12500.0,
+            "deempMode": "Вимкнен.",
+            "fmifnrPreset": "Мова",
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 1.0,
+            "snapInterval": 2500.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "LSB": {
+            "FMIFNREnabled": false,
+            "bandwidth": 12000,
+            "deempMode": "Вимкнен.",
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 4.458000183105469,
+            "snapInterval": 100.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "RAW": {
+            "FMIFNREnabled": false,
+            "bandwidth": 8000,
+            "noiseBlankerEnabled": true,
+            "noiseBlankerLevel": 3.0810000896453857,
+            "snapInterval": 25000,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "USB": {
+            "FMIFNREnabled": false,
+            "bandwidth": 12000,
+            "deempMode": "Вимкнен.",
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 1.0,
+            "snapInterval": 100.0,
+            "squelchEnabled": true,
+            "squelchLevel": -74.47599792480469
+        },
+        "WFM": {
+            "FMIFNREnabled": false,
+            "bandwidth": 220000.0,
+            "deempMode": "Вимкнен.",
+            "lowPass": true,
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 1.0,
+            "rds": false,
+            "snapInterval": 50000,
+            "squelchEnabled": false,
+            "squelchLevel": -67.91000366210938,
+            "stereo": false
+        },
+        "selectedDemodId": 1
+    },
+    "С1": {
+        "WFM": {
+            "FMIFNREnabled": false,
+            "bandwidth": 250000.0,
+            "deempMode": "50мкс",
+            "noiseBlankerEnabled": false,
+            "noiseBlankerLevel": 1.0,
+            "snapInterval": 100000.0,
+            "squelchEnabled": false,
+            "squelchLevel": -100.0
+        },
+        "selectedDemodId": 1
+    }
+}

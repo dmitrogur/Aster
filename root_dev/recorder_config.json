@@ -1,0 +1,22 @@
+{
+    "Recorder": null,
+    "Запис": {
+        "audioStream": "Канал приймання",
+        "audioVolume": 0.8361445665359497,
+        "container": "WAV",
+        "ignoreSilence": false,
+        "mode": 1,
+        "recPath": "/home/dgm/Aster/SDRPlusPlus/root_dev/recordings",
+        "stereo": false
+    },
+    "Запис С1": {
+        "audioStream": "С1",
+        "audioVolume": 1.0,
+        "container": "WAV"
+    },
+    "Запис С2": {
+        "audioStream": "С2",
+        "container": "WAV",
+        "mode": 1
+    }
+}

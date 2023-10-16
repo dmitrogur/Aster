@@ -1,0 +1,186 @@
+{
+    "InstanceName": "TestInstance1",
+    "InstanceNum": 1,
+    "Url": "http://localhost:18101/event",
+    "bandColors": {
+        "amateur": "#FF0000FF",
+        "aviation": "#00FF00FF",
+        "broadcast": "#0000FFFF",
+        "marine": "#00FFFFFF",
+        "military": "#FFFF00FF"
+    },
+    "bandPlan": "General",
+    "bandPlanEnabled": false,
+    "bandPlanPos": 0,
+    "centerTuning": true,
+    "colorMap": "GQRX",
+    "decimationPower": 0,
+    "fastFFT": false,
+    "fftHeight": 300,
+    "fftHold": false,
+    "fftHoldSpeed": 1,
+    "fftRate": 20,
+    "fftSize": 65536,
+    "fftSmoothing": true,
+    "fftSmoothingSpeed": 100,
+    "fftWindow": 1,
+    "frequency": 102564891.22280571,
+    "fullWaterfallUpdate": true,
+    "fullscreen": false,
+    "invertIQ": false,
+    "iqCorrection": true,
+    "lockMenuOrder": true,
+    "max": -23.529415130615234,
+    "maximized": false,
+    "menuElements": [
+        {
+            "name": "Радіоприймач",
+            "open": false
+        },
+        {
+            "name": "Колір каналу приймання",
+            "open": false
+        },
+        {
+            "name": "Аудіо вивід",
+            "open": false
+        },
+        {
+            "name": "Виводи ЦП",
+            "open": false
+        },
+        {
+            "name": "Канал приймання",
+            "open": false
+        },
+        {
+            "name": "Менеджер модулів",
+            "open": false
+        },
+        {
+            "name": "Запис",
+            "open": false
+        },
+        {
+            "name": "Пошук",
+            "open": true
+        },
+        {
+            "name": "Сканування",
+            "open": false
+        },
+        {
+            "name": "Спостереження",
+            "open": false
+        },
+        {
+            "name": "Тема",
+            "open": false
+        },
+        {
+            "name": "Дисплей",
+            "open": false
+        },
+        {
+            "name": "С1",
+            "open": false
+        },
+        {
+            "name": "Запис С1",
+            "open": false
+        }
+    ],
+    "menuWidth": 393,
+    "min": -109.4117660522461,
+    "moduleInstances": {
+        "Airspy": {
+            "enabled": true,
+            "module": "airspy_source"
+        },
+        "Malva Server": {
+            "enabled": true,
+            "module": "sdrpp_server_source"
+        },
+        "Аудіо вивід": {
+            "enabled": true,
+            "module": "audio_sink"
+        },
+        "Вивід в мережу": {
+            "enabled": true,
+            "module": "network_sink"
+        },
+        "Запис": {
+            "enabled": true,
+            "module": "recorder"
+        },
+        "Запис С1": {
+            "enabled": true,
+            "module": "recorder"
+        },
+        "Канал приймання": {
+            "enabled": true,
+            "module": "radio"
+        },
+        "Пошук": {
+            "enabled": true,
+            "module": "scanner2"
+        },
+        "С1": {
+            "enabled": true,
+            "module": "radio"
+        },
+        "Сканування": {
+            "enabled": true,
+            "module": "scanner3"
+        },
+        "Спостереження": {
+            "enabled": true,
+            "module": "supervision4"
+        }
+    },
+    "modules": [
+        "./decoder_modules/radio/radio.so",
+        "./misc_modules/discord_integration/discord_integration.so",
+        "./misc_modules/recorder/recorder.so",
+        "./misc_modules/rigctl_server/rigctl_server.so",
+        "./misc_modules/scanner2/scanner2.so",
+        "./misc_modules/scanner3/scanner3.so",
+        "./misc_modules/supervision4/supervision4.so",
+        "./sink_modules/audio_sink/audio_sink.so",
+        "./sink_modules/network_sink/network_sink.so",
+        "./source_modules/airspy_source/airspy_source.so",
+        "./source_modules/sdrpp_server_source/sdrpp_server_source.so"
+    ],
+    "modulesDirectory": "../root_dev/modules",
+    "offset": 0.0,
+    "offsetMode": 0,
+    "resourcesDirectory": "../root_dev/res",
+    "showMenu": true,
+    "showWaterfall": true,
+    "source": "Airspy",
+    "streams": {
+        "Канал приймання": {
+            "muted": false,
+            "sink": "Аудіо",
+            "volume": 0.5
+        },
+        "С1": {
+            "muted": false,
+            "sink": "Аудіо",
+            "volume": 0.5
+        }
+    },
+    "theme": "Темна",
+    "uiScale": 1.0,
+    "vfoColors": {
+        "Канал приймання": "#FF8080"
+    },
+    "vfoOffsets": {
+        "Канал приймання": 0.0,
+        "С1": 4875000.0
+    },
+    "windowSize": {
+        "h": 842,
+        "w": 1846
+    }
+}

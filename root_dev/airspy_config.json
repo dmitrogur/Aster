@@ -1,0 +1,29 @@
+{
+    "device": "744C60C82137894F",
+    "devices": {
+        "744C60C82137894F": {
+            "biasT": false,
+            "gainMode": 2,
+            "linearGain": 0,
+            "lnaAgc": false,
+            "lnaGain": 5,
+            "mixerAgc": true,
+            "mixerGain": 6,
+            "sampleRate": 10000000.0,
+            "sensitiveGain": 14,
+            "vgaGain": 6
+        },
+        "B58069DC39825F13": {
+            "biasT": false,
+            "gainMode": 2,
+            "linearGain": 7,
+            "lnaAgc": false,
+            "lnaGain": 2,
+            "mixerAgc": true,
+            "mixerGain": 5,
+            "sampleRate": 2500000.0,
+            "sensitiveGain": 12,
+            "vgaGain": 7
+        }
+    }
+}

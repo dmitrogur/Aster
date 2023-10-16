@@ -1,0 +1,118 @@
+{
+    "bookmarkDisplayMode": 2,
+    "lists": {
+        "FM radio": {
+            "bookmarks": {
+                "1": {
+                    "bandwidth": 220000.0,
+                    "frequency": 87500000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "2": {
+                    "bandwidth": 12500.0,
+                    "frequency": 87900000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "3": {
+                    "bandwidth": 220000.0,
+                    "frequency": 90200000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "4": {
+                    "bandwidth": 220000.0,
+                    "frequency": 107400000.0,
+                    "level": -70,
+                    "mode": 1
+                },
+                "5": {
+                    "bandwidth": 220000.0,
+                    "frequency": 101000000.0,
+                    "level": -85,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
+        },
+        "General": {
+            "bookmarks": {
+                "1": {
+                    "bandwidth": 220000.0,
+                    "frequency": 113278000.0,
+                    "level": -101,
+                    "mode": 1
+                },
+                "10": {
+                    "bandwidth": 220000.0,
+                    "frequency": 136120000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "11": {
+                    "bandwidth": 220000.0,
+                    "frequency": 90200000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "2": {
+                    "bandwidth": 220000.0,
+                    "frequency": 101000001.0,
+                    "level": -85,
+                    "mode": 1
+                },
+                "3": {
+                    "bandwidth": 100000.0,
+                    "frequency": 112643000.0,
+                    "level": -102,
+                    "mode": 4
+                },
+                "4": {
+                    "bandwidth": 220000.0,
+                    "frequency": 104300000.0,
+                    "level": -84,
+                    "mode": 1
+                },
+                "5": {
+                    "bandwidth": 6250.0,
+                    "frequency": 90900000.0,
+                    "level": -62,
+                    "mode": 1
+                },
+                "6": {
+                    "bandwidth": 12500.0,
+                    "frequency": 96380000.0,
+                    "level": -145,
+                    "mode": 1
+                },
+                "7": {
+                    "bandwidth": 220000.0,
+                    "frequency": 101100000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "8": {
+                    "bandwidth": 220000.0,
+                    "frequency": 104000000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "9": {
+                    "bandwidth": 220000.0,
+                    "frequency": 105000000.0,
+                    "level": -100,
+                    "mode": 1
+                },
+                "FM": {
+                    "bandwidth": 244648.3125,
+                    "frequency": 91022324.0,
+                    "level": -62,
+                    "mode": 1
+                }
+            },
+            "showOnWaterfall": true
+        }
+    },
+    "selectedList": "FM radio"
+}

@@ -1,0 +1,18 @@
+{
+    "Канал приймання": {
+        "hostname": "localhost",
+        "listening": true,
+        "port": 7355,
+        "protocol": 1,
+        "sampleRate": 22050,
+        "stereo": false
+    },
+    "С1": {
+        "hostname": "localhost",
+        "listening": false,
+        "port": 7355,
+        "protocol": 1,
+        "sampleRate": 48000.0,
+        "stereo": false
+    }
+}

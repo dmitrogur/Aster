@@ -1,0 +1,17 @@
+{
+    "hostname": "127.0.0.1",
+    "port": 1234,
+    "servers": {
+        "127.0.0.1:01234": {
+            "compression": true
+        },
+        "127.0.0.1:04888": {
+            "compression": false
+        },
+        "127.0.0.1:05259": {
+            "compression": false
+        },
+        "localhost:02222": null,
+        "localhost:05259": null
+    }
+}

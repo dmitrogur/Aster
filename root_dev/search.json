@@ -1,0 +1,70 @@
+{
+    "lists": {
+        "118 .. 174": {
+            "_bandwidth": 25000.0,
+            "_interval": 100000,
+            "_level": -68.0,
+            "_lingerTime": 3000,
+            "_mode": 2,
+            "_passbandRatio": 20.0,
+            "_startFreq": 118000000.0,
+            "_status_ignor": "true",
+            "_status_record": "true",
+            "_status_stop": "false",
+            "_stopFreq": 174000000.0,
+            "_tuningTime": 350,
+            "_waitingTime": 1000,
+            "listName": "118 .. 174"
+        },
+        "400": {
+            "_bandwidth": null,
+            "_interval": 30000,
+            "_level": -76.0,
+            "_lingerTime": 3000,
+            "_mode": null,
+            "_passbandRatio": 100.0,
+            "_startFreq": 400000000.0,
+            "_status_ignor": "true",
+            "_status_record": "false",
+            "_status_stop": "false",
+            "_stopFreq": 420000000.0,
+            "_tuningTime": 100,
+            "_waitingTime": 1000,
+            "listName": "400"
+        },
+        "FM broadcast": {
+            "_bandwidth": 220000.0,
+            "_interval": 100000,
+            "_level": -93.0,
+            "_lingerTime": 2000,
+            "_mode": 1,
+            "_passbandRatio": 10.0,
+            "_startFreq": 87400000.0,
+            "_status_ignor": "false",
+            "_status_record": "true",
+            "_status_stop": "false",
+            "_stopFreq": 108000000.0,
+            "_tuningTime": 500,
+            "_waitingTime": 5000,
+            "listName": "FM broadcast"
+        },
+        "General": {
+            "_bandwidth": null,
+            "_interval": 10000.0,
+            "_level": -75,
+            "_lingerTime": 3000,
+            "_mode": null,
+            "_passbandRatio": 10.0,
+            "_startFreq": 90000000.0,
+            "_status_ignor": "true",
+            "_status_record": "false",
+            "_status_stop": "false",
+            "_stopFreq": 110000000.0,
+            "_tuningTime": 350,
+            "_waitingTime": 1000,
+            "listName": "General",
+            "status_record": null
+        }
+    },
+    "selectedList": "FM broadcast"
+}

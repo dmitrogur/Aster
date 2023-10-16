@@ -1,0 +1,38 @@
+{
+    "": {
+        "device": "Renoir Radeon High Definition Audio Controller Digital Stereo (HDMI)"
+    },
+    "90930": {
+        "device": "",
+        "devices": {
+            "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo": 48000
+        }
+    },
+    "91": {
+        "device": "",
+        "devices": {
+            "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo": 16000
+        }
+    },
+    "Канал приймання": {
+        "device": "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo",
+        "devices": {
+            "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo": 8000,
+            "Renoir Radeon High Definition Audio Controller Digital Stereo (HDMI)": 8000
+        }
+    },
+    "С1": {
+        "device": "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo",
+        "devices": {
+            "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo": 8000,
+            "Renoir Radeon High Definition Audio Controller Digital Stereo (HDMI)": 8000
+        }
+    },
+    "С2": {
+        "device": "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo",
+        "devices": {
+            "Family 17h (Models 10h-1fh) HD Audio Controller Analog Stereo": 8000,
+            "Renoir Radeon High Definition Audio Controller Digital Stereo (HDMI)": 48000
+        }
+    }
+}
